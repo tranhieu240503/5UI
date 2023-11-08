@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/New folder/fellow4u/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/New folder/fellow4u/build" />
+      <excludeFolder url="file://$MODULE_DIR$/New folder/fellow4u/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/New folder/st20udacntt/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/New folder/st20udacntt/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/New folder/st20udacntt/build" />
+      <excludeFolder url="file://$MODULE_DIR$/project_end/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/project_end/build" />
+      <excludeFolder url="file://$MODULE_DIR$/project_end/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/project_1/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/project_1/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/project_1/build" />
+      <excludeFolder url="file://$MODULE_DIR$/providerstacked/build" />
+      <excludeFolder url="file://$MODULE_DIR$/providerstacked/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/providerstacked/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/project_3/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/project_3/build" />
+      <excludeFolder url="file://$MODULE_DIR$/project_3/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/project_2/build" />
+      <excludeFolder url="file://$MODULE_DIR$/project_2/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/project_2/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/first_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/first_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/first_app/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+  </component>
+</module>
